@@ -1,6 +1,3 @@
-// Author: Kamrun Nahar Liza
-// Student ID: 101200678
-
 package com.company;
 
 public class HugeInteger {
